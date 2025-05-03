@@ -19,7 +19,7 @@
 
 使用方法：
 1、QX > 右下角风车 > 重写 > 规则资源 > 引用以下脚本 > 打开资源解析器
-https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b6/yangcong.js
+https://raw.githubusercontent.com/hackwuyue/immich/refs/heads/main/yangcong.js
 
 ********************************
 
@@ -29,10 +29,10 @@ https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b
 hostname = ios-api-v5-0.yangcong345.com,7to12.yangcong345.com
 
 [rewrite_local]
-https:\/\/ios-api-v5-0\.yangcong345\.com\/growth-operation-config\/api\/vip\/info url script-response-body https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b6/yc.js
-https:\/\/ios-api-v5-0\.yangcong345\.com\/api\/client\/userAuth url script-response-body https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b6/yc.js
-https:\/\/ios-api-v5-0\.yangcong345\.com\/api\/client\/userAuth\/current url script-response-body https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b6/yc.js
-https:\/\/7to12\.yangcong345\.com\/backend\/api\/client\/userAuth url script-response-body https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b6/yc.js
-https:\/\/ios-api-v5-0\.yangcong345\.com\/course-mall\/app\/mytabs url script-response-body https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b6/yc.js
-https:\/\/7to12\.yangcong345\.com\/backend\/study-course url script-response-body https://github.com/hackwuyue/immich/blob/618722eff9886f2cb92a08aec9b9671c6ebdc6b6/yc.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/growth-operation-config\/api\/vip\/info url script-response-body https://raw.githubusercontent.com/hackwuyue/immich/refs/heads/main/yc.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/api\/client\/userAuth url script-response-body https://raw.githubusercontent.com/hackwuyue/immich/refs/heads/main/yc.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/api\/client\/userAuth\/current url script-response-body https://raw.githubusercontent.com/hackwuyue/immich/refs/heads/main/yc.js
+https:\/\/7to12\.yangcong345\.com\/backend\/api\/client\/userAuth url script-response-body https://raw.githubusercontent.com/hackwuyue/immich/refs/heads/main/yc.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/course-mall\/app\/mytabs url script-response-body https://raw.githubusercontent.com/hackwuyue/immich/refs/heads/main/yc.js
+https:\/\/7to12\.yangcong345\.com\/backend\/study-course url script-response-body https://raw.githubusercontent.com/hackwuyue/immich/refs/heads/main/yc.js
  ***************/
